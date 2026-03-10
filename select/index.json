@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Mr. Blue Sky",
+  "base_artist": "ELECTRIC LIGHT ORCHESTRA",
+  "createdAt": "2026-03-10T13:35:58.690400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr Blue Sky",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/01_Mr_Blue_Sky_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr Blue Sky [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/02_Mr_Blue_Sky_[Special_Track]_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/03_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/04_Mr._Blue_Sky_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/05_Mr._Blue_Sky_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/06_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/07_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/08_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/09_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/10_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/11_Mr_Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/12_Mr._Blue_Sky_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey! Mr. Sky",
+      "artist": "Jackie O Motherfucker",
+      "has_synced": false,
+      "path": "select/13_Hey!_Mr._Sky_Jackie_O_Motherfucker.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey! Mr. Sky",
+      "artist": "Jackie O Motherfucker",
+      "has_synced": false,
+      "path": "select/14_Hey!_Mr._Sky_Jackie_O_Motherfucker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thai Tea Trippin' (feat. Mr. Sky)",
+      "artist": "Boba Boyz",
+      "has_synced": false,
+      "path": "select/15_Thai_Tea_Trippin'_(feat._Mr._Sky)_Boba_Boyz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thai Tea Trippin' (feat. Mr. Sky)",
+      "artist": "Boba Boyz, Mr. Sky",
+      "has_synced": false,
+      "path": "select/16_Thai_Tea_Trippin'_(feat._Mr._Sky)_Boba_Boyz,_Mr._Sky.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "教えて Mr.Sky",
+      "artist": "Shiori Fujisaki (藤崎詩織)",
+      "has_synced": false,
+      "path": "select/17_教えて_Mr.Sky_Shiori_Fujisaki_(藤崎詩織).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hey! Mr. Sky",
+      "artist": "Jackie O'Motherfucker",
+      "has_synced": true,
+      "path": "select/18_Hey!_Mr._Sky_Jackie_O'Motherfucker.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hey! Mr Sky",
+      "artist": "Jackie-O Motherfucker",
+      "has_synced": false,
+      "path": "select/19_Hey!_Mr_Sky_Jackie-O_Motherfucker.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "(DON'T TELL ME NOW!) PLEASE PLEASE MR. SKY ～空に鳥がいなくなった日～",
+      "artist": "Spiral Life",
+      "has_synced": false,
+      "path": "select/20_(DON'T_TELL_ME_NOW!)_PLEASE_PLEASE_MR._SKY_~空に鳥がいなくなった日~_Spiral_Life.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Mr Blue",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/21_Mr_Blue_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Mr. Blue Collar (Interlude)",
+      "artist": "Rhymefest feat. Malik Yusef",
+      "has_synced": false,
+      "path": "select/22_Mr._Blue_Collar_(Interlude)_Rhymefest_feat._Malik_Yusef.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Mr. Blue Collar (Interlude) (Feat. Malik Yusef)",
+      "artist": "Rhymefest",
+      "has_synced": false,
+      "path": "select/23_Mr._Blue_Collar_(Interlude)_(Feat._Malik_Yusef)_Rhymefest.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Mr. Blue (Watashi no Chikyuu)",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/24_Mr._Blue_(Watashi_no_Chikyuu)_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Mr. Blue",
+      "artist": "The Fleetwoods",
+      "has_synced": false,
+      "path": "select/25_Mr._Blue_The_Fleetwoods.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Blue Sky",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Blue_Sky_Electric_Light_Orchestra.txt"
+    }
+  ]
+}
